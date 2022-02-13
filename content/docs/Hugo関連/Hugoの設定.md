@@ -9,8 +9,6 @@ KaTexなどのマークアップを有効にする。
     [markup.goldmark.renderer]
       unsafe = true
 
-
-
 # 新しいページの作成
 
 # テスト記事です。
