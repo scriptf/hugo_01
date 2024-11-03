@@ -1,6 +1,6 @@
 ---
-title: 探求
+title: メモ書き
 type: docs
 ---
 
-# 探求
+# あああ

@@ -1,6 +1,6 @@
 baseURL = 'https://msrvcs.conohawing.com/doc/'
 languageCode = 'ja'
-title = '研究'
+title = '色々'
 
 [taxonomies]
     tag = "tags"
