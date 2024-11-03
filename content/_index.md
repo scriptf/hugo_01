@@ -1,8 +1,6 @@
 ---
-title: Introduction
+title: 探求
 type: docs
 ---
 
-# 2週間後の自分用
-
-2週間後の自分のためのメモ。
+# 探求

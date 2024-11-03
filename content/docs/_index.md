@@ -1,7 +1,9 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "01_hugoのドキュメント群"
+title: "内部観測について"
 ---
 
-# ドキュメント群
+# 内部観測とは
+
+

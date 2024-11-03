@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'For myself in two weeks'
+baseURL = 'https://msrvcs.conohawing.com/doc/'
+languageCode = 'ja'
+title = '研究'
 
 [taxonomies]
     tag = "tags"
